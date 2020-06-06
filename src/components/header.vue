@@ -33,7 +33,7 @@
 			},
 			onSubmit: function(){
 				let v = document.querySelector(".ipt_search").value;
-				alert(v);
+				this.$router.push("list/1");
 			}
 		}
 	}

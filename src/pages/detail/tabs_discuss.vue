@@ -4,7 +4,7 @@
 		<!-- 一条讨论 -->
 		<div class="comment_item">
 			<div class="comment_infos">
-				<img src="http://p1.bpimg.com/587986/c7ad269e33e3978f.jpg" class="u_photo">
+				<img src="http://wuwc.i728.top/examples/7/source/detail_slider1.jpg" class="u_photo">
 				<span class="u_name">张三</span>
 				<span class="u_time">2016-07-07 16:23:44</span>
 			</div>
@@ -14,7 +14,7 @@
 		<!-- 一条讨论 -->
 		<div class="comment_item">
 			<div class="comment_infos">
-				<img src="http://p1.bpimg.com/587986/c7ad269e33e3978f.jpg" class="u_photo">
+				<img src="http://wuwc.i728.top/examples/7/source/detail_slider1.jpg" class="u_photo">
 				<span class="u_name">李四</span>
 				<span class="u_time">2016-07-07 16:23:44</span>
 			</div>
@@ -24,7 +24,7 @@
 		<!-- 一条讨论 -->
 		<div class="comment_item">
 			<div class="comment_infos">
-				<img src="http://p1.bpimg.com/587986/c7ad269e33e3978f.jpg" class="u_photo">
+				<img src="http://wuwc.i728.top/examples/7/source/detail_slider1.jpg" class="u_photo">
 				<span class="u_name">王五</span>
 				<span class="u_time">2016-07-07 16:23:44</span>
 			</div>

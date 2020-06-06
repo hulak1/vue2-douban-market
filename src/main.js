@@ -7,6 +7,7 @@ import store from './store/'
 import VueLazyLoad from 'vue-lazyload'
 
 import './assets/css/fonts.css'
+import 'swiper/dist/css/swiper.css';
 
 //懒加载的默认图片 
 import def_lazy_img from './assets/images/loading.gif'
